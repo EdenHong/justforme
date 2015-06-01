@@ -1,2 +1,2 @@
 연습용 파일입니다
-commit
+These files are just tutorial for me.
